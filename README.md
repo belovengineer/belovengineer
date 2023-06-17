@@ -3,6 +3,7 @@
 ## 📚 Проекты
 
 - [Влияние генетических мутаций](https://github.com/belovengineer/personalized_medicine)
+- [Обнаружение номерного знака автомобиля](https://kaggle.com/code/belovengineer/practice-cv-project-car-license-belovhttps://www.kaggle.com/code/belovengineer/practice-cv-project-car-license-belov/edit)
 - [Прогнозирование времени поездки на такси](https://github.com/belovengineer/new_york_city_taxi_trip_duration)
 - [Сегментирование клиентов онлайн-магазина](https://github.com/belovengineer/customer_segmentation)
 - Рекомендательная система статей из CI&T
